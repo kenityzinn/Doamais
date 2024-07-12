@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582157676991",
+    "project_id": "doe-conecta",
+    "storage_bucket": "doe-conecta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582157676991:android:d3364d3df06f2fcfdf310a",
+        "android_client_info": {
+          "package_name": "br.com.dtec.loja.loja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqBOYcpvCqE-LjowGvANxYTrE2UA-3PxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"doe-conecta","appId":"1:582157676991:android:d3364d3df06f2fcfdf310a","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"doe-conecta","configurations":{"android":"1:582157676991:android:d3364d3df06f2fcfdf310a","web":"1:582157676991:web:c7fe372f4d17e2a7df310a"}}}}}}
